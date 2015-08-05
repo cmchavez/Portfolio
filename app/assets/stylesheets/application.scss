@@ -28,6 +28,14 @@ label {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
+     border: 2px solid white; 
+}
+
+.pure-img-responsive1 {
+	max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    border: 2px solid black; 
 }
 
 /*
@@ -220,7 +228,7 @@ a.pure-button-primary {
 /* This is the class used for the dark-background areas. */
 .ribbon {
     background: #F0F0F5;
-    color: black;
+    color: black;	
 }
 
 /* This is the class used for the footer */
@@ -308,6 +316,19 @@ a.pure-button-primary {
   filter: none;
   -webkit-filter: grayscale(0%);
 }
+
+.contact {
+	text-align: center;
+	margin-left: 200px;
+	margin-bottom: 50px;
+}
+
+/*p {
+    float: left;
+    margin: 0 0 10px 10px;
+}
+*/
+
 
 
 /*.header {
